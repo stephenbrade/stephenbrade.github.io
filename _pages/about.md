@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is a work in progress..."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+
+I am a Master's student in Computer Science at the University of Toronto co-supervised by Prof. Tovi Grossman of DGP and Prof. Sageev Oore of the Vector Institute.
+
+I am interested in designing experimental applications that augment human creativity with AI. In the first half of my Master's, I focused on designing a novel interactive system that used chat optimized large language models to enhance how user's prompt text-to-image models. Right now, I am focused on using text-to-audio models like LAION-CLAP to make sound synthesis more intuitive and expressive for novices.
+
+I recieved my bachelor's degree in Engineering Science from the University of Toronto where I majored in Machine Intelligence. I also completed a professional experience year working at AMD as a Machine Learning engineer where I developed in-house applications to aid with the detection of regressive code. 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
