@@ -3,7 +3,6 @@ title: "Promptify: Text-to-Image Generation through Interactive Prompt Explorati
 authors: "Stephen Brade, Bryan Wang, Mauricio Sousa, Sageev Oore, and Tovi Grossman"
 collection: publications
 permalink: /publication/Promptify
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-07
 venue: 'ACM UIST'
 paperurl: 'https://arxiv.org/abs/2304.09337'
