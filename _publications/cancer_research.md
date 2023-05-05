@@ -1,5 +1,6 @@
 ---
 title: "Quantitative ultrasound radiomics using texture derivatives in prediction of treatment response to neo-adjuvant chemotherapy for locally advanced breast cancer"
+authors: 'Dasgupta A, Brade S, Sannachi L, Quiaoit K, Fatima K, DiCenzo D, Osapoetra LO, Saifuddin M, Trudeau M, Gandhi S, Eisen A, Wright F, Look-Hong N, Sadeghi-Naini A, Tran WT, Curpen B, Czarnota GJ'
 collection: publications
 permalink: /publication/cancer_research
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
