@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe width="100%" height="800" src="files/cv_2023.pdf">
 
 <!-- Education
 ======
