@@ -1,7 +1,7 @@
 ---
 title: "Promptify Teaser Clip"
 collection: talks
-type: "Talk"
+type: "Teaser Video"
 permalink: /talks/promptify_demo
 venue: "UIST"
 date: 2023-04-07
