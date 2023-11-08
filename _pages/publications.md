@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Music"
-permalink: /music/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
