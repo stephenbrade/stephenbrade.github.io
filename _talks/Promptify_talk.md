@@ -7,5 +7,4 @@ date: 2023-11-02
 location: "San Francisco, California"
 ---
 
-[Demo Video for Promptify](https://www.youtube.com/watch?v=PkXHuPkatpk)
-
+[Talk for Promptify](https://www.youtube.com/watch?v=PkXHuPkatpk)
