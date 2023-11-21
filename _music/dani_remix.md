@@ -3,7 +3,7 @@ title: "Mythos SynthScribe Remix"
 collection: music
 type: "Music"
 permalink: /music/dani_remix
-venue: "Dani Oore"
+venue: "Dani Oore and Andrew Staniland"
 date: 2023-04-07
 location: "Halifax, Nova Scotia"
 ---
